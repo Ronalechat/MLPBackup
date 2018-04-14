@@ -27,9 +27,9 @@ There were some notable cross-browser difficulties that were encountered (and ov
 Where you will find the topmost page content - including links to follow on Youtube and Facebook
 
 #### Left Column
-Where you will find the extendable text sections, and red arrow links.
+Where you will find the extendable text area, and red arrow links.
 
-##### Extendable text section ("top, center, bottom")
+#### Extendable text area ("top, centre, bottom")
 Text areas that can extended as you add more text content
 
 #### Right Column
