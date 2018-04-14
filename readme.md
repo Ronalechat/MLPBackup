@@ -1,15 +1,14 @@
 # MLP eDM Test
 
-## Goal
+## General Info
 My goal was to replicate the email template in the images provided, with an extendable text area, as well as links, and styling.
 
-The PSD includes slices for images used in the email, as well as non-image slices to gauge content size. Guidelines were added to parts of the template that required positioning or reference.
+The PSD includes slices for images used in the email, as well as non-image slices to gauge content size. Guidelines were added to parts of the template that required positioning and/or reference.
 
-The eDM-template.html file was developed and tested in Chrome and Safari. I aimed to have both browsers display content as close to the original image. Failing that, I made sure they were at least formatted the same - no extra lines, pixels, etc. Measurements are either in px for positioning, and REM for text for consistency and responsiveness. Comments were intentionally left in the HTML file for referencing and indexing.
-
-There were some notable cross-browser difficulties that were encountered (and overcome) such as, font sizing/weight - Safari displays slightly larger, and horizontal resizing when a container cannot hold its contents.
+The eDM-template.html file was developed and tested in Chrome and Safari. I aimed to have both browsers display content as close to the original image as possible. Failing that, I made sure they were at least formatted the same - no extra lines, pixels, etc. Measurements are either in px for positioning, and REM for text to get consistency and responsiveness. Comments were intentionally left in the HTML file for referencing and indexing.
 
 ## Some notable styling:
+There were some notable cross-browser difficulties that were encountered (and overcome) such as, font sizing/weight - Safari displays slightly larger, and horizontal resizing when a container cannot hold its contents.
 
 ### Consistency to design and error
 - The goal was to make an email template with an extendable text area. While I believe that has been achieved, I have intentionally used the original text, errors and all (Such as “Willyou” in the side bar). This was so I had the most accurate reference to sizing and positioning.
@@ -29,7 +28,7 @@ Where you will find the topmost page content - including links to follow on Yout
 #### Left Column
 Where you will find the extendable text area, and red arrow links.
 
-#### Extendable text area ("top, centre, bottom")
+#### ("top, centre, bottom") Extendable text area
 Text areas that can extended as you add more text content
 
 #### Right Column
