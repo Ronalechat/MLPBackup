@@ -19,3 +19,21 @@ There were some notable cross-browser difficulties that were encountered (and ov
 
 ###Footer divider border
 - This is somewhat similar to the colour gradient, but it is only 4px in height, and does not interfere with the background's colour gradient.
+
+
+##Index of the eDM
+
+####Header and Banner
+Where you will find the topmost page content - including links to follow on Youtube and Facebook
+
+####Left Column
+Where you will find the extendable text sections, and red arrow links.
+
+#####Extendable text section ("top, center, bottom")
+Text areas that can extended as you add more text content
+
+####Right Column
+Contains side bar with link, and promo image.
+
+####Footer
+Contains footer links and disclaimers.
